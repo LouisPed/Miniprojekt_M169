@@ -9,4 +9,4 @@ Ich habe mein HTML File und CSS mit ChatGPT erstellt. Ich hatte nicht die Zeit e
 4.  Befehl um Webserver zu starten: docker run -d --name Webserver-GBS -p 8080:80 webserver:1.0
 5.  Seite: localhost:8080 aufrufen 
 6.  ![image](https://user-images.githubusercontent.com/105428565/228564424-ff47df0b-fd89-4c67-80a8-a7352a68cb50.png)
-
+7.  Meine Website hat leider nicht ganz nach Plan funktioniert.
